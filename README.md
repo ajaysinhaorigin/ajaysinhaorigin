@@ -1,10 +1,10 @@
 # Hi👋, I'm Ajay Sinha
 
-<h3 style="font-family: Arial, sans-serif;">
+<h4 style="font-family: Arial, sans-serif;">
     I am a Frontend Developer specializing in building responsive, user-friendly applications.
     I have a passion for creating interactive and efficient user experiences.
     Currently expanding my skill set with backend development, focusing on Node.js to build complete applications.
-</h3>
+</h4>
 
 # 🛠 Tech Stack
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white)&nbsp; 
