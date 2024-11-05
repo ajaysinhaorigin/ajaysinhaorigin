@@ -1,7 +1,7 @@
 # Hi👋, I'm Ajay Sinha
 
 <h3 style="font-family: Arial, sans-serif;">
-    I’m a Front-end developer specialize in building robust and scalable web applications. I enjoy tackling complex challenges and finding elegant solutions using the latest technologies and best practices.       Currently expanding my skill set with backend development, focusing on Node.js to build complete applications.
+    I’m a Front-end developer specialize in building robust and scalable web applications. Currently expanding my skill set with backend development, focusing on Node.js to build complete applications.
 </h3>
 
 # 🛠 Tech Stack
