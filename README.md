@@ -25,5 +25,5 @@ I’m a Front-end developer with 1.5 years of experience. I enjoy building robus
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoWidth=20&logoColor=white)](https://instagram.com/ajaysinhaorigin)&nbsp;
 
 # 📊 GitHub Stats
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaysinhaorigin&show_icons=true&theme=radical)&nbsp;&nbsp;
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaysinhaorigin&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinhaorigin&layout=compact&theme=radical)
