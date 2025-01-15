@@ -1,7 +1,7 @@
 # Hi👋, I'm Ajay Sinha
 
 <h4 style="font-family: Calibri">
-I’m a Front-end developer with 1.5 years of experience. I enjoy building robust and scalable web-applications using the latest technologies and best practices. Currently focusing on Node.js to build complete applications.
+I’m a Front-end developer with 1.5 years of experience. I enjoy building robust and scalable web-applications using the latest technologies and best practices. Currently focusing on Node.js to build complete applications
 </h4>
 
 # 🛠 Tech Stack
@@ -26,4 +26,4 @@ I’m a Front-end developer with 1.5 years of experience. I enjoy building robus
 
 # 📊 GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaysinhaorigin&count_private=true&show_icons=true&theme=radical)&nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinhaorigin&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysinhaorigin&layout=compact&theme=radical) 
